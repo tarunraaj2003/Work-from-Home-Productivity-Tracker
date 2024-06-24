@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Work-from-Home-Productivity-Tracker/static/css/main.061ee719.css",
+    "main.js": "/Work-from-Home-Productivity-Tracker/static/js/main.ff03a2bc.js",
+    "static/js/453.56f46472.chunk.js": "/Work-from-Home-Productivity-Tracker/static/js/453.56f46472.chunk.js",
+    "index.html": "/Work-from-Home-Productivity-Tracker/index.html",
+    "main.061ee719.css.map": "/Work-from-Home-Productivity-Tracker/static/css/main.061ee719.css.map",
+    "main.ff03a2bc.js.map": "/Work-from-Home-Productivity-Tracker/static/js/main.ff03a2bc.js.map",
+    "453.56f46472.chunk.js.map": "/Work-from-Home-Productivity-Tracker/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061ee719.css",
+    "static/js/main.ff03a2bc.js"
+  ]
+}
